@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hama-draft/precache-manifest.161b418e5baaf0602ecb169880e43c57.js"
+  "/hama-draft/precache-manifest.42181d8aadf2fd15b7c187d3762683df.js"
 );
 
 workbox.clientsClaim();
